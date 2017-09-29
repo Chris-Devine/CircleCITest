@@ -8,4 +8,4 @@ jobs:
       - checkout
       - run: npm install angular-cli@latest -g
       - run: npm install
-      - run: npm test
+      - run: npm test 
